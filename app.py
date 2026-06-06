@@ -1,6 +1,6 @@
 MENU_PROPMT="\nEnter 'a' to add a movie , 'l' to see your movies, 'f' to find a movie by title, or 'q' to quit : "
 movies=[]
-#first program edited
+#first program reverted
 def add_movie():
     title =input("Enter movie title: ")
     director = input("Enter director: ")
